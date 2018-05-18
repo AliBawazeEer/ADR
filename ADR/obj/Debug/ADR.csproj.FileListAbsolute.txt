@@ -1,0 +1,6 @@
+c:\users\subve\documents\visual studio 2015\Projects\ADR\ADR\bin\Debug\ADR.exe.config
+c:\users\subve\documents\visual studio 2015\Projects\ADR\ADR\bin\Debug\ADR.exe
+c:\users\subve\documents\visual studio 2015\Projects\ADR\ADR\bin\Debug\ADR.pdb
+c:\users\subve\documents\visual studio 2015\Projects\ADR\ADR\obj\Debug\ADR.csprojResolveAssemblyReference.cache
+c:\users\subve\documents\visual studio 2015\Projects\ADR\ADR\obj\Debug\ADR.exe
+c:\users\subve\documents\visual studio 2015\Projects\ADR\ADR\obj\Debug\ADR.pdb
