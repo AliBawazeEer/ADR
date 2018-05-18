@@ -14,7 +14,7 @@ Compilation : Visual Studio 2015
 
 Tested :  Microsoft Windows 10 Home N/A Build 16299
 
-![](Resource/snap_01.png)
+![](Resource/
 
 # TODO 
 
