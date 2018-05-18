@@ -13,8 +13,13 @@ Usefull while you are shellcoding :P
 Compilation : Visual Studio 2015 
 Tested :  Microsoft Windows 10 Home N/A Build 16299
 
-#TODO 
+# TODO 
 
 Implement GUI
 
+
+# Release 
+
+V 1.0 (Stable)
+Scan results :- https://virusscan.jotti.org/en-US/filescanjob/wpbzgjvf11
 
