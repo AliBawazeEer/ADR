@@ -4,6 +4,7 @@ Windows Address Resolution Programme
 C# CLI based tool to resolve API Addresses 
 
 Adr simply loads DLL's with LoadLibraryEx() and resolves address of a specified function with GetProcAddress
+
 Usefull while you are shellcoding :P 
 
 Caution :- Please maintain the proper name of dll as well as function as this tool is case sensitive 
