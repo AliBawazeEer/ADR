@@ -3,7 +3,7 @@ Windows Address Resolution Programme
 
 C# CLI based tool to resolve API Addresses 
 
-Adr simply loads DLL's with LoadLibraryEx() and resolves address of a specified function with GetProcAddress
+ADR loads DLL's with LoadLibraryEx() and resolves address of a specified function with GetProcAddress
 
 Usefull while you are shellcoding :P 
 
